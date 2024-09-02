@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or collaboration opportunities, please reach out to the project maintainer.
+For any questions or collaboration opportunities, please reach out to me on [LinkedIn](https://www.linkedin.com/in/rachit-jha/).
